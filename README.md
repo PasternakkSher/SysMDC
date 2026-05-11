@@ -23,11 +23,6 @@ Whether you're maintaining a personal command library, automating deployments, o
 -  **Native macOS Experience** – Built with SwiftUI, optimized for Apple Silicon, supports Dark Mode, keyboard shortcuts, and Services integration
 -  **Logging & Analytics** – Track execution times, success/failure rates, and command usage frequency
 
-## 📸 Screenshots
-*(Замените на реальные скриншоты или GIF)*
-| Command Editor | Execution Output | Library View |
-|----------------|------------------|--------------|
-| ![Editor](assets/editor.png) | ![Output](assets/output.png) | ![Library](assets/library.png) |
 
 ## 🚀 Installation
 ### Option 1: Download Pre-built
